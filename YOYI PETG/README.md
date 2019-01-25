@@ -9,17 +9,24 @@
   * Make sure to clean the tip before printing!
 * Terrible first layer adhesion (solvable)
 
+## Fluidity problem fix:
+- Set the printing head at ~15 cm high
+- Start pre-heating as standard PET option
+- If needed - load filament
+- Let it stay for several minutes : the surplus plastic will drop out
 
 ## First layer adhesion solution
 ### 1. Polyimide Tape (works the best for me)
 While bed is still cold:
 1. clean the surface of printing bed
 2. apply the polyimide tape and do not touch the surface after applying!
-  - if touched - clean tape surface with IPA
-3. print.
+  - push all air bubbles out (with paper towel,  credit card or whatever you can use)
+  - if touched the surface - clean tape surface with IPA
+3. print
 
-Printed part can be easily detached from tape while tape will be still adhered to bed.
-This tape is usually used by electronics hobbyists to isolate conductive parts, which can self-heat. Material is also known as capron.
+Small printed part can be easily detached from tape while tape will be still adhered to bed.
+Parts with high bottom area may stick to tape -> preheat the bed up to 75-90 Celsius. It detaches much easier now.
+This tape is usually used by electronics hobbyists to isolate conductive parts, which can self-heat. Material is also known as Kapton.
 
 ### 2. Hair Spray (for now - not tested)
 Apply when bed is not heated:
